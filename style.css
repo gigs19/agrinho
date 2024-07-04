@@ -1,0 +1,23 @@
+:root{
+    --cor-principal: #F6F6F6;
+}
+
+body{
+    background-color: var(--cor-principal);
+}
+
+h1 {
+    text-align: center;
+}
+ p {
+    text-align: center;
+ }
+
+#CAMPOS.JPG {
+    width: 60%;
+    height: 600px;
+    border-radius: 15%;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
